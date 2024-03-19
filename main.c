@@ -18,6 +18,7 @@ int main() {
 
     printf("Number of heads: %d \n",numberofhead);
     printf("The number of tails: %d",1000-numberofhead);
+    
     return 0;
 }
 
